@@ -3,6 +3,5 @@ SpeechRecognition
 googletrans==4.0.0-rc1
 gTTS
 pipwin
-portaudio19-dev
 pyaudio
 numpy
