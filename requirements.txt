@@ -5,3 +5,4 @@ gTTS
 pipwin
 pyaudio
 numpy
+streamlit-audiorec
